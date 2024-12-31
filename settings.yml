@@ -1,0 +1,5 @@
+setting:
+  period_time: 24 # khoảng thời gian (giờ) tối đa kể từ đăng lần test so với thời điểm hiện tại   # 
+  number_of_threads: 1 # số luồng chạy đồng thời
+  time_sleep: 3 #thời gian ngủ mỗi lần 1 acc check xong
+  maximum_scroll: 2 # số lần cuộn trang
